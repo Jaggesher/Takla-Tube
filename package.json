@@ -1,0 +1,16 @@
+{
+    "name": "Takla-Tube",
+    "version": "1.0.0",
+    "description": "Youtube player wrapper",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Jaggesher",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "electron": "^9.0.2",
+        "electron-squirrel-startup": "^1.0.0"
+    }
+}
