@@ -10,7 +10,7 @@
     "license": "MIT",
     "private": false,
     "dependencies": {
-        "electron": "^9.0.2",
+        "electron": "^9.3.1",
         "electron-squirrel-startup": "^1.0.0"
     }
 }
